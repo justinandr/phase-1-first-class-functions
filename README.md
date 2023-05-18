@@ -1,4 +1,4 @@
-# First-Class Functions
+# First-Class Functions 
 
 ## Learning Goals
 
